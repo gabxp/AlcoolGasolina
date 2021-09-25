@@ -1,6 +1,6 @@
 # alcoolougasolina
 
-Alcool ou gasolina
+App mobile que diz se é melhor abastecer com álcool ou gasolina
 
 ## Getting Started
 
